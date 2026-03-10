@@ -12,6 +12,13 @@ Program
 2.<img width="903" height="273" alt="image" src="https://github.com/user-attachments/assets/f986a2e7-c2f6-4c69-a808-14577603d46b" />
 3.<img width="894" height="149" alt="image" src="https://github.com/user-attachments/assets/a7bb6dad-ea17-40eb-817d-8f98856987e3" />
 
+
+
+
+
+
+
+
 Output
 <img width="840" height="538" alt="image" src="https://github.com/user-attachments/assets/0b00f200-b365-4871-8141-44f6ab80df90" />
 <img width="789" height="101" alt="image" src="https://github.com/user-attachments/assets/c733455a-1431-477d-852a-352631cc06b5" />
