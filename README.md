@@ -6,10 +6,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 Equipment’s required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
 <img width="1188" height="561" alt="Screenshot 2026-03-10 080910" src="https://github.com/user-attachments/assets/d1a2f472-68e6-48cd-b1a6-4a365ec2963e" />
-
-
 Program
 1.<img width="908" height="185" alt="image" src="https://github.com/user-attachments/assets/35e74892-72eb-497a-88cf-e7f7dfe2b590" />
 2.<img width="903" height="273" alt="image" src="https://github.com/user-attachments/assets/f986a2e7-c2f6-4c69-a808-14577603d46b" />
